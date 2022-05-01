@@ -1,0 +1,13 @@
+name: trial-shinnyapp
+title: trial-shinnyapp
+username:
+account: yogasagama
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6208860
+bundleId: 5856466
+url: https://yogasagama.shinyapps.io/trial-shinnyapp/
+when: 1651391117.43739
+lastSyncTime: 1651391117.43741
+asMultiple: FALSE
+asStatic: FALSE
